@@ -160,36 +160,10 @@ npm start
 
 ## 8. Evidencia y capturas
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
-  <div style="text-align: center;">
-    <strong>Inicio de sesión</strong><br>
-    <img src="./pantallas/autenticacion/InicioSesion_1.png" alt="Pantalla de inicio de sesión" width="180" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-  </div>
-  <div style="text-align: center;">
-    <strong>Registro</strong><br>
-    <img src="./pantallas/autenticacion/Registro_1.png" alt="Pantalla de registro" width="180" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-  </div>
-  <div style="text-align: center;">
-    <strong>Panel Principal</strong><br>
-    <img src="./pantallas/inicio/Inicio_1.png" alt="Pantalla principal" width="180" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-  </div>
-  <div style="text-align: center;">
-    <strong>Mis Trades</strong><br>
-    <img src="./pantallas/trades/Trades_1.png" alt="Pantalla de trades" width="180" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-  </div>
-  <div style="text-align: center;">
-    <strong>Academia</strong><br>
-    <img src="./pantallas/academia/Academia_1.png" alt="Pantalla de academia" width="180" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-  </div>
-  <div style="text-align: center;">
-    <strong>Mercado</strong><br>
-    <img src="./pantallas/mercado/Mercado_1.png" alt="Pantalla de mercado" width="180" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-  </div>
-</div>
+|                                                                   |                                                       |
+| ----------------------------------------------------------------- | ----------------------------------------------------- |
+| ![Inicio de sesión](./pantallas/autenticacion/InicioSesion_1.png) | ![Registro](./pantallas/autenticacion/Registro_1.png) |
+| ![Panel Principal](./pantallas/inicio/Inicio_1.png)               | ![Mis Trades](./pantallas/trades/Trades_1.png)        |
+| ![Academia](./pantallas/academia/Academia_1.png)                  | ![Mercado](./pantallas/mercado/Mercado_1.png)         |
 
 **[Ver galería completa de pantallas →](./pantallas/)**
-
-- ![Pantalla de mercado](./pantallas/mercado/Mercado_2.png)
-- ![Pantalla de configuración](./pantallas/configuracion/Configuracion_1.png)
-
-**[Ver todas las pantallas →](./pantallas/)**
