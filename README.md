@@ -153,15 +153,20 @@ npm start
 - Ejecutar con Expo en Android o iOS.
 - La app móvil se conecta al backend para autenticación, datos y actualizaciones.
 
-## 7. Evidencia y capturas
-
-TODO: Incluye aquí capturas de pantalla o imágenes de la app y del backend:
-
-- ![Pantalla de inicio móvil](./evidence/mobile-home.png)
-- ![Dashboard de trades](./evidence/mobile-trades.png)
-- ![API en ejecución](./evidence/backend-api.png)
-
-## 8. Estado actual del proyecto
+## 7. Estado actual del proyecto
 
 - **Backend**: Backend desplegado en Railway.
 - **Móvil**: App móvil funcional en Android con autenticación, dashboard de trades y datos de mercado en tiempo real. Integración con CoinGecko y Binance APIs activa.
+
+## 8. Evidencia y capturas
+
+- ![Pantalla de inicio de sesión](./pantallas/autenticacion/InicioSesion_1.png)
+- ![Pantalla de registro](./pantallas/autenticacion/Registro_1.png)
+- ![Pantalla principal](./pantallas/inicio/Inicio_1.png)
+- ![Pantalla de trades](./pantallas/trades/Trades_1.png)
+- ![Pantalla de academia](./pantallas/academia/Academia_1.png)
+- ![Pantalla de mercado](./pantallas/mercado/Mercado_1.png)
+- ![Pantalla de configuración](./pantallas/configuracion/Configuracion_1.png)
+
+**[Ver todas las pantallas →](./pantallas/)**
+
