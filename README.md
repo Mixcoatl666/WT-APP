@@ -160,31 +160,42 @@ npm start
 
 ## 8. Evidencia y capturas
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
-  <div style="text-align: center;">
-    <strong>Inicio de sesión</strong><br>
-    <img src="./pantallas/autenticacion/InicioSesion_1.png" alt="Pantalla de inicio de sesión" width="150" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-  </div>
-  <div style="text-align: center;">
-    <strong>Registro</strong><br>
-    <img src="./pantallas/autenticacion/Registro_1.png" alt="Pantalla de registro" width="150" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-  </div>
-  <div style="text-align: center;">
-    <strong>Panel Principal</strong><br>
-    <img src="./pantallas/inicio/Inicio_1.png" alt="Pantalla principal" width="150" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-  </div>
-  <div style="text-align: center;">
-    <strong>Mis Trades</strong><br>
-    <img src="./pantallas/trades/Trades_1.png" alt="Pantalla de trades" width="150" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-  </div>
-  <div style="text-align: center;">
-    <strong>Academia</strong><br>
-    <img src="./pantallas/academia/Academia_1.png" alt="Pantalla de academia" width="150" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-  </div>
-  <div style="text-align: center;">
-    <strong>Mercado</strong><br>
-    <img src="./pantallas/mercado/Mercado_1.png" alt="Pantalla de mercado" width="150" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
-  </div>
-</div>
+<table>
+<tr>
+<td align="center">
+<strong>Inicio de sesión</strong><br>
+<img src="./pantallas/autenticacion/InicioSesion_1.png" width="150">
+</td>
 
-**[Ver galería completa de pantallas →](./pantallas/)**
+<td align="center">
+<strong>Registro</strong><br>
+<img src="./pantallas/autenticacion/Registro_1.png" width="150">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<strong>Panel Principal</strong><br>
+<img src="./pantallas/inicio/Inicio_1.png" width="150">
+</td>
+
+<td align="center">
+<strong>Mis Trades</strong><br>
+<img src="./pantallas/trades/Trades_1.png" width="150">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<strong>Academia</strong><br>
+<img src="./pantallas/academia/Academia_1.png" width="150">
+</td>
+
+<td align="center">
+<strong>Mercado</strong><br>
+<img src="./pantallas/mercado/Mercado_1.png" width="150">
+</td>
+</tr>
+</table>
+
+[Ver galería completa](./pantallas/)
