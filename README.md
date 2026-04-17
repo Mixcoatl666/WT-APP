@@ -1,13 +1,12 @@
 # Witch Trading
----
 
 <p align="center">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-1f2937?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-1f2937?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=node.js&logoColor=3C873A" />
+<img src="https://img.shields.io/badge/Express-1f2937?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=336791" />
+<img src="https://img.shields.io/badge/Socket.IO-1f2937?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
 ## 1. Descripción general
