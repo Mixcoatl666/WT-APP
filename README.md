@@ -160,42 +160,46 @@ npm start
 
 ## 8. Evidencia y capturas
 
+<p align="center">
 <table>
 <tr>
-<td align="center">
-<strong>Inicio de sesión</strong><br>
-<img src="./pantallas/autenticacion/InicioSesion_1.png" width="150">
+<td align="center" width="220">
+<strong>Inicio de sesión</strong><br><br>
+<img src="./pantallas/autenticacion/InicioSesion_1.png" width="160">
 </td>
 
-<td align="center">
-<strong>Registro</strong><br>
-<img src="./pantallas/autenticacion/Registro_1.png" width="150">
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<strong>Panel Principal</strong><br>
-<img src="./pantallas/inicio/Inicio_1.png" width="150">
-</td>
-
-<td align="center">
-<strong>Mis Trades</strong><br>
-<img src="./pantallas/trades/Trades_1.png" width="150">
+<td align="center" width="220">
+<strong>Registro</strong><br><br>
+<img src="./pantallas/autenticacion/Registro_1.png" width="160">
 </td>
 </tr>
 
 <tr>
-<td align="center">
-<strong>Academia</strong><br>
-<img src="./pantallas/academia/Academia_1.png" width="150">
+<td align="center" width="220">
+<strong>Panel Principal</strong><br><br>
+<img src="./pantallas/inicio/Inicio_1.png" width="160">
 </td>
 
-<td align="center">
-<strong>Mercado</strong><br>
-<img src="./pantallas/mercado/Mercado_1.png" width="150">
+<td align="center" width="220">
+<strong>Mis Trades</strong><br><br>
+<img src="./pantallas/trades/Trades_1.png" width="160">
+</td>
+</tr>
+
+<tr>
+<td align="center" width="220">
+<strong>Academia</strong><br><br>
+<img src="./pantallas/academia/Academia_1.png" width="160">
+</td>
+
+<td align="center" width="220">
+<strong>Mercado</strong><br><br>
+<img src="./pantallas/mercado/Mercado_1.png" width="160">
 </td>
 </tr>
 </table>
 
-[Ver galería completa](./pantallas/)
+<br>
+
+<a href="./pantallas/">Ver galería completa</a>
+</p>
